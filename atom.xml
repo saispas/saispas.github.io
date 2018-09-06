@@ -160,50 +160,6 @@
   </entry>
   
   <entry>
-    <title>不舒服 不舒服</title>
-    <link href="https://www.zorlin.com/2017/07/26/upset-upset/"/>
-    <id>https://www.zorlin.com/2017/07/26/upset-upset/</id>
-    <published>2017-07-26T15:57:08.000Z</published>
-    <updated>2018-01-02T11:30:28.739Z</updated>
-    
-    <content type="html"><![CDATA[<p>全身无力，天气原因，再加上有点饿。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;全身无力，天气原因，再加上有点饿。&lt;/p&gt;
-
-    
-    </summary>
-    
-    
-      <category term="心情" scheme="https://www.zorlin.com/tags/%E5%BF%83%E6%83%85/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>嗯，5年</title>
-    <link href="https://www.zorlin.com/2017/07/17/became/"/>
-    <id>https://www.zorlin.com/2017/07/17/became/</id>
-    <published>2017-07-17T02:57:08.000Z</published>
-    <updated>2018-01-02T11:32:46.086Z</updated>
-    
-    <content type="html"><![CDATA[<p>嗯，5年</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;嗯，5年&lt;/p&gt;
-
-    
-    </summary>
-    
-    
-      <category term="心情" scheme="https://www.zorlin.com/tags/%E5%BF%83%E6%83%85/"/>
-    
-  </entry>
-  
-  <entry>
     <title>好久没这么开心的聊过天了</title>
     <link href="https://www.zorlin.com/2017/06/24/long-time-no-smile/"/>
     <id>https://www.zorlin.com/2017/06/24/long-time-no-smile/</id>
@@ -295,11 +251,11 @@
   </entry>
   
   <entry>
-    <title>突然惊醒</title>
+    <title>感觉很不好</title>
     <link href="https://www.zorlin.com/2017/06/07/feel-uncomfortable/"/>
     <id>https://www.zorlin.com/2017/06/07/feel-uncomfortable/</id>
     <published>2017-06-07T02:37:08.000Z</published>
-    <updated>2018-01-02T11:46:10.192Z</updated>
+    <updated>2018-09-06T11:21:32.812Z</updated>
     
     <content type="html"><![CDATA[<p>早上去吃饭，出外勤，在车上晃了一会感觉有点恶心想吐，居然晕车。回来了先躺一会再说。</p>
 <p>还是要吃早饭才行，明天必须吃。</p>
@@ -508,6 +464,50 @@
     
     </summary>
     
+    
+  </entry>
+  
+  <entry>
+    <title>想迁移到GITHUB去</title>
+    <link href="https://www.zorlin.com/2017/06/03/move-to-GitHub/"/>
+    <id>https://www.zorlin.com/2017/06/03/move-to-GitHub/</id>
+    <published>2017-06-03T02:37:08.000Z</published>
+    <updated>2018-05-12T11:24:57.843Z</updated>
+    
+    <content type="html"><![CDATA[<p>GCE不是长久之计，分分钟破产，想迁移到GitHub去，但是好了一阵<br>发现并不能加载CSS，样式都没有看起来很困难啊，总觉得哪里不对，<br>又不懂，继续学习去了</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;GCE不是长久之计，分分钟破产，想迁移到GitHub去，但是好了一阵&lt;br&gt;发现并不能加载CSS，样式都没有看起来很困难啊，总觉得哪里不对，&lt;br&gt;又不懂，继续学习去了&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="心情" scheme="https://www.zorlin.com/tags/%E5%BF%83%E6%83%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>重建帝国</title>
+    <link href="https://www.zorlin.com/2017/06/02/rebuild-the-empire/"/>
+    <id>https://www.zorlin.com/2017/06/02/rebuild-the-empire/</id>
+    <published>2017-06-02T12:37:08.000Z</published>
+    <updated>2018-01-02T11:57:46.880Z</updated>
+    
+    <content type="html"><![CDATA[<p>在什么都不懂的情况下修改了function.php，导致无法访问，只有重新开始。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;在什么都不懂的情况下修改了function.php，导致无法访问，只有重新开始。&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="心情" scheme="https://www.zorlin.com/tags/%E5%BF%83%E6%83%85/"/>
     
   </entry>
   
