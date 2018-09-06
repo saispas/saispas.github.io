@@ -448,26 +448,6 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://www.zorlin.com/2017/06/03/hello-world/"/>
-    <id>https://www.zorlin.com/2017/06/03/hello-world/</id>
-    <published>2017-06-03T03:58:23.857Z</published>
-    <updated>2017-06-04T08:47:54.208Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome! This is my first post. </p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Welcome! This is my first post. &lt;/p&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>想迁移到GITHUB去</title>
     <link href="https://www.zorlin.com/2017/06/03/move-to-GitHub/"/>
     <id>https://www.zorlin.com/2017/06/03/move-to-GitHub/</id>
@@ -502,6 +482,28 @@
     <summary type="html">
     
       &lt;p&gt;在什么都不懂的情况下修改了function.php，导致无法访问，只有重新开始。&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="心情" scheme="https://www.zorlin.com/tags/%E5%BF%83%E6%83%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>雷酱你好！</title>
+    <link href="https://www.zorlin.com/2017/06/02/hello-ray/"/>
+    <id>https://www.zorlin.com/2017/06/02/hello-ray/</id>
+    <published>2017-06-02T01:37:08.000Z</published>
+    <updated>2018-01-02T11:57:15.305Z</updated>
+    
+    <content type="html"><![CDATA[<p>😋😋😋😋</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;😋😋😋😋&lt;/p&gt;
 
     
     </summary>
