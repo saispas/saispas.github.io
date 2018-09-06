@@ -104,28 +104,6 @@
   </entry>
   
   <entry>
-    <title>我还没找到工作</title>
-    <link href="https://www.zorlin.com/2018/03/14/still-no-job/"/>
-    <id>https://www.zorlin.com/2018/03/14/still-no-job/</id>
-    <published>2018-03-14T09:00:08.000Z</published>
-    <updated>2018-05-12T11:26:47.834Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天，2018年3月14日，霍金去世了，我还是没找到工作！<br>本来以为会很简单事，我错了，可笑的我，没有准备好的事，<br>怎么会简单，而自己在没工作的时间内并没有好好去学习该<br>有的知识，导致荒废了这快3个月的时间，我打了自己的脸，<br>每天都在给自己不学习找理由。</p>
-<p>使劲的扇自己两耳光，然后继续荒废时间！</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;今天，2018年3月14日，霍金去世了，我还是没找到工作！&lt;br&gt;本来以为会很简单事，我错了，可笑的我，没有准备好的事，&lt;br&gt;怎么会简单，而自己在没工作的时间内并没有好好去学习该&lt;br&gt;有的知识，导致荒废了这快3个月的时间，我打了自己的脸，&lt;br&gt;每天都在给自己不学习找理
-    
-    </summary>
-    
-    
-      <category term="心情" scheme="https://www.zorlin.com/tags/%E5%BF%83%E6%83%85/"/>
-    
-  </entry>
-  
-  <entry>
     <title>新年快乐</title>
     <link href="https://www.zorlin.com/2018/01/01/happy-new-year/"/>
     <id>https://www.zorlin.com/2018/01/01/happy-new-year/</id>
@@ -361,28 +339,6 @@
   </entry>
   
   <entry>
-    <title>疑似过敏</title>
-    <link href="https://www.zorlin.com/2017/06/12/allergy/"/>
-    <id>https://www.zorlin.com/2017/06/12/allergy/</id>
-    <published>2017-06-12T14:37:08.000Z</published>
-    <updated>2018-05-12T11:25:49.370Z</updated>
-    
-    <content type="html"><![CDATA[<p>夏季的雨夜，四肢突现奇痒无比红点，这是螃蟹亡灵的诅咒，<br>还是蚊子疯狂的复仇～肯定不关小龙虾的事</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;夏季的雨夜，四肢突现奇痒无比红点，这是螃蟹亡灵的诅咒，&lt;br&gt;还是蚊子疯狂的复仇～肯定不关小龙虾的事&lt;/p&gt;
-
-    
-    </summary>
-    
-    
-      <category term="心情" scheme="https://www.zorlin.com/tags/%E5%BF%83%E6%83%85/"/>
-    
-  </entry>
-  
-  <entry>
     <title>很慌</title>
     <link href="https://www.zorlin.com/2017/06/12/upset/"/>
     <id>https://www.zorlin.com/2017/06/12/upset/</id>
@@ -395,6 +351,28 @@
     <summary type="html">
     
       &lt;p&gt;心里感觉慌的很😖&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="心情" scheme="https://www.zorlin.com/tags/%E5%BF%83%E6%83%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>疑似过敏</title>
+    <link href="https://www.zorlin.com/2017/06/12/allergy/"/>
+    <id>https://www.zorlin.com/2017/06/12/allergy/</id>
+    <published>2017-06-12T14:37:08.000Z</published>
+    <updated>2018-05-12T11:25:49.370Z</updated>
+    
+    <content type="html"><![CDATA[<p>夏季的雨夜，四肢突现奇痒无比红点，这是螃蟹亡灵的诅咒，<br>还是蚊子疯狂的复仇～肯定不关小龙虾的事</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;夏季的雨夜，四肢突现奇痒无比红点，这是螃蟹亡灵的诅咒，&lt;br&gt;还是蚊子疯狂的复仇～肯定不关小龙虾的事&lt;/p&gt;
 
     
     </summary>
@@ -489,6 +467,29 @@
     
       &lt;p&gt;我的第一张图片&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://github.com/saispas/saispas.github.io/blob/master/image/IMG_20141006_062509.jpg?raw=true&quot; width=&quot;50%&quot; hei
+    
+    </summary>
+    
+    
+      <category term="心情" scheme="https://www.zorlin.com/tags/%E5%BF%83%E6%83%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于Markdown编辑器</title>
+    <link href="https://www.zorlin.com/2017/06/05/markdown-editor/"/>
+    <id>https://www.zorlin.com/2017/06/05/markdown-editor/</id>
+    <published>2017-06-05T13:48:08.000Z</published>
+    <updated>2018-05-12T11:24:02.516Z</updated>
+    
+    <content type="html"><![CDATA[<p>真的，我在想为何都是在左边编辑右边预览呢，作为一个右手使用鼠标的人，<br>我更倾向于看右边部分编辑，左边预览。 我发现这款markdown编辑器–Typora，<br>我并不需要去关心很多代码改怎么写，我还是习惯这种所见即所得的东西。</p>
+<p>还是懒，不想研究，推荐使用。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;真的，我在想为何都是在左边编辑右边预览呢，作为一个右手使用鼠标的人，&lt;br&gt;我更倾向于看右边部分编辑，左边预览。 我发现这款markdown编辑器–Typora，&lt;br&gt;我并不需要去关心很多代码改怎么写，我还是习惯这种所见即所得的东西。&lt;/p&gt;
+&lt;p&gt;还是懒，不想研究，推荐
     
     </summary>
     
