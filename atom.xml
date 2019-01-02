@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.zorlin.com/"/>
-  <updated>2018-12-06T14:24:25.527Z</updated>
+  <updated>2019-01-02T13:35:41.480Z</updated>
   <id>https://www.zorlin.com/</id>
   
   <author>
@@ -14,6 +14,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>生日快乐！新年快乐！</title>
+    <link href="https://www.zorlin.com/2019/01/01/happynewyear/"/>
+    <id>https://www.zorlin.com/2019/01/01/happynewyear/</id>
+    <published>2018-12-31T16:00:00.000Z</published>
+    <updated>2019-01-02T13:35:41.480Z</updated>
+    
+    <content type="html"><![CDATA[<p>生日逢假期，祝自己生日快乐！</p>
+<p>祝大家新年快乐！</p>
+<p>2019继续加油！</p>
+<p><img src="https://i.loli.net/2019/01/02/5c2cbcbfae9e0.jpg?raw=true" width="50%" height="50%"></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"></div><div class="line"></div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;生日逢假期，祝自己生日快乐！&lt;/p&gt;
+&lt;p&gt;祝大家新年快乐！&lt;/p&gt;
+&lt;p&gt;2019继续加油！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.loli.net/2019/01/02/5c2cbcbfae9e0.jpg?raw=true&quot; width=&quot;50%&quot; he
+    
+    </summary>
+    
+    
+      <category term="心情" scheme="https://www.zorlin.com/tags/%E5%BF%83%E6%83%85/"/>
+    
+  </entry>
   
   <entry>
     <title>Autumn Or Winter</title>
@@ -484,28 +512,6 @@
     <summary type="html">
     
       &lt;p&gt;GCE不是长久之计，分分钟破产，想迁移到GitHub去，但是好了一阵&lt;br&gt;发现并不能加载CSS，样式都没有看起来很困难啊，总觉得哪里不对，&lt;br&gt;又不懂，继续学习去了&lt;/p&gt;
-
-    
-    </summary>
-    
-    
-      <category term="心情" scheme="https://www.zorlin.com/tags/%E5%BF%83%E6%83%85/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>重建帝国</title>
-    <link href="https://www.zorlin.com/2017/06/02/rebuild-the-empire/"/>
-    <id>https://www.zorlin.com/2017/06/02/rebuild-the-empire/</id>
-    <published>2017-06-02T12:37:08.000Z</published>
-    <updated>2018-01-02T11:57:46.880Z</updated>
-    
-    <content type="html"><![CDATA[<p>在什么都不懂的情况下修改了function.php，导致无法访问，只有重新开始。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;在什么都不懂的情况下修改了function.php，导致无法访问，只有重新开始。&lt;/p&gt;
 
     
     </summary>
