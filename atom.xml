@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.zorlin.com/"/>
-  <updated>2019-01-02T13:38:31.598Z</updated>
+  <updated>2019-04-23T14:45:45.064Z</updated>
   <id>https://www.zorlin.com/</id>
   
   <author>
@@ -14,6 +14,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>3 Months, Thank you</title>
+    <link href="https://www.zorlin.com/2019/04/23/threemonth/"/>
+    <id>https://www.zorlin.com/2019/04/23/threemonth/</id>
+    <published>2019-04-23T14:22:22.000Z</published>
+    <updated>2019-04-23T14:45:45.064Z</updated>
+    
+    <content type="html"><![CDATA[<p>Started on January 13,<br>From January 23 to April 23. Thank you!</p>
+<p><strong><em>The best thing to hold onto in life is each other.” – Audrey Hepburn</em></strong></p>
+<p><img src="https://i.loli.net/2019/04/23/5cbf1fdfd1c9b.jpg?raw=true" width="50%" height="50%"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Started on January 13,&lt;br&gt;From January 23 to April 23. Thank you!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;The best thing to hold onto in life is each other.” 
+    
+    </summary>
+    
+    
+      <category term="心情" scheme="https://www.zorlin.com/tags/%E5%BF%83%E6%83%85/"/>
+    
+  </entry>
   
   <entry>
     <title>生日快乐！新年快乐！</title>
@@ -489,28 +513,6 @@
     <summary type="html">
     
       &lt;p&gt;我先添加规则直连一下，再想办法解决。&lt;/p&gt;
-
-    
-    </summary>
-    
-    
-      <category term="心情" scheme="https://www.zorlin.com/tags/%E5%BF%83%E6%83%85/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>想迁移到GITHUB去</title>
-    <link href="https://www.zorlin.com/2017/06/03/move-to-GitHub/"/>
-    <id>https://www.zorlin.com/2017/06/03/move-to-GitHub/</id>
-    <published>2017-06-03T02:37:08.000Z</published>
-    <updated>2018-05-12T11:24:57.844Z</updated>
-    
-    <content type="html"><![CDATA[<p>GCE不是长久之计，分分钟破产，想迁移到GitHub去，但是好了一阵<br>发现并不能加载CSS，样式都没有看起来很困难啊，总觉得哪里不对，<br>又不懂，继续学习去了</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;GCE不是长久之计，分分钟破产，想迁移到GitHub去，但是好了一阵&lt;br&gt;发现并不能加载CSS，样式都没有看起来很困难啊，总觉得哪里不对，&lt;br&gt;又不懂，继续学习去了&lt;/p&gt;
 
     
     </summary>
