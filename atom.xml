@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.zorlin.com/"/>
-  <updated>2019-05-22T15:06:10.292Z</updated>
+  <updated>2020-03-18T15:20:21.588Z</updated>
   <id>https://www.zorlin.com/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>1 Year, Engaged</title>
+    <link href="https://www.zorlin.com/2020/01/24/oneyear/"/>
+    <id>https://www.zorlin.com/2020/01/24/oneyear/</id>
+    <published>2020-01-24T04:12:12.000Z</published>
+    <updated>2020-03-18T15:20:21.588Z</updated>
+    
+    <content type="html"><![CDATA[<p>We are engaged， January 24 2020,</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;We are engaged， January 24 2020,&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="心情" scheme="https://www.zorlin.com/tags/%E5%BF%83%E6%83%85/"/>
+    
+  </entry>
   
   <entry>
     <title>3 Months, Thank you</title>
@@ -489,28 +511,6 @@
       &lt;p&gt;1、先使用域名提供商提供的邮件转发功能将Email转发到我的Gmail上，&lt;br&gt; 完成了Power BI的设置，也达到我买这个域名的目的。&lt;/p&gt;
 &lt;p&gt;2、域名提供商的DNS很慢，更换了一个DNS服务商，超级慢不过提供&lt;br&gt;免费CDN，据说很厉害。&lt;/p&gt;
 &lt;p&gt;3、
-    
-    </summary>
-    
-    
-      <category term="心情" scheme="https://www.zorlin.com/tags/%E5%BF%83%E6%83%85/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>网站被默认代理了打不开</title>
-    <link href="https://www.zorlin.com/2017/06/03/proxyed/"/>
-    <id>https://www.zorlin.com/2017/06/03/proxyed/</id>
-    <published>2017-06-03T11:37:08.000Z</published>
-    <updated>2018-01-02T11:55:52.447Z</updated>
-    
-    <content type="html"><![CDATA[<p>我先添加规则直连一下，再想办法解决。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;我先添加规则直连一下，再想办法解决。&lt;/p&gt;
-
     
     </summary>
     
