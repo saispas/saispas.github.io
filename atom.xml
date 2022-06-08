@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.zorlin.com/"/>
-  <updated>2020-03-18T15:20:21.588Z</updated>
+  <updated>2022-06-08T08:15:22.313Z</updated>
   <id>https://www.zorlin.com/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>今日、大吉、宜婚配</title>
+    <link href="https://www.zorlin.com/2021/01/01/wedding/"/>
+    <id>https://www.zorlin.com/2021/01/01/wedding/</id>
+    <published>2021-01-01T04:00:00.000Z</published>
+    <updated>2022-06-08T08:15:22.313Z</updated>
+    
+    <content type="html"><![CDATA[<p>我们收到了很多的祝福！</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;我们收到了很多的祝福！&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="心情" scheme="https://www.zorlin.com/tags/%E5%BF%83%E6%83%85/"/>
+    
+  </entry>
   
   <entry>
     <title>1 Year, Engaged</title>
@@ -484,33 +506,6 @@
       &lt;p&gt;下雨天一个人坐在窗台，什么都不做，静静听着雨打在雨棚上。&lt;br&gt;突然想念一首诗，苟~   &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;听雨楼&lt;br&gt;张雨&lt;br&gt;雨中市井迷烟雾,楼底雨声无着处。&lt;br&gt;不知雨到耳根来,还是耳根随雨去。&lt;br&gt;好将此语问风幡,闻见何时得暂闲。&lt;b
-    
-    </summary>
-    
-    
-      <category term="心情" scheme="https://www.zorlin.com/tags/%E5%BF%83%E6%83%85/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>今晚的事</title>
-    <link href="https://www.zorlin.com/2017/06/04/tonight/"/>
-    <id>https://www.zorlin.com/2017/06/04/tonight/</id>
-    <published>2017-06-04T01:37:08.000Z</published>
-    <updated>2018-05-12T11:24:43.120Z</updated>
-    
-    <content type="html"><![CDATA[<p>1、先使用域名提供商提供的邮件转发功能将Email转发到我的Gmail上，<br> 完成了Power BI的设置，也达到我买这个域名的目的。</p>
-<p>2、域名提供商的DNS很慢，更换了一个DNS服务商，超级慢不过提供<br>免费CDN，据说很厉害。</p>
-<p>3、使用腾讯的企业邮设置了企业邮箱，避免无法只能收邮件不能发邮件<br>的尴尬。设置完了发现只能发不能收，查了好久发现时新的DNS商的MX <br>还没更新，又在域名提供商那里设置了一下，现在可以收发邮件了。</p>
-<p>4、因为在换DNS 服务器网站又挂了，这是今天第三次挂掉了，估计还会<br>继续挂掉，这些东西都保存不下来的。</p>
-<p>5、写着玩玩。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;1、先使用域名提供商提供的邮件转发功能将Email转发到我的Gmail上，&lt;br&gt; 完成了Power BI的设置，也达到我买这个域名的目的。&lt;/p&gt;
-&lt;p&gt;2、域名提供商的DNS很慢，更换了一个DNS服务商，超级慢不过提供&lt;br&gt;免费CDN，据说很厉害。&lt;/p&gt;
-&lt;p&gt;3、
     
     </summary>
     
