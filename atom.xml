@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.zorlin.com/"/>
-  <updated>2022-06-08T09:18:03.647Z</updated>
+  <updated>2022-06-08T09:25:29.632Z</updated>
   <id>https://www.zorlin.com/</id>
   
   <author>
@@ -14,6 +14,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>欢迎来到这世界</title>
+    <link href="https://www.zorlin.com/2022/02/05/baby20220205/"/>
+    <id>https://www.zorlin.com/2022/02/05/baby20220205/</id>
+    <published>2022-02-05T01:09:09.000Z</published>
+    <updated>2022-06-08T09:25:29.632Z</updated>
+    
+    <content type="html"><![CDATA[<p>欢迎加入我们这个大家庭！</p>
+<p>览察草木其犹未得兮，岂珵美之能当？</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;欢迎加入我们这个大家庭！&lt;/p&gt;
+&lt;p&gt;览察草木其犹未得兮，岂珵美之能当？&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="心情" scheme="https://www.zorlin.com/tags/%E5%BF%83%E6%83%85/"/>
+    
+  </entry>
   
   <entry>
     <title>他来了，我们的宝贝</title>
@@ -475,34 +499,6 @@
     
       &lt;p&gt;真的，我在想为何都是在左边编辑右边预览呢，作为一个右手使用鼠标的人，&lt;br&gt;我更倾向于看右边部分编辑，左边预览。 我发现这款markdown编辑器–Typora，&lt;br&gt;我并不需要去关心很多代码改怎么写，我还是习惯这种所见即所得的东西。&lt;/p&gt;
 &lt;p&gt;还是懒，不想研究，推荐
-    
-    </summary>
-    
-    
-      <category term="心情" scheme="https://www.zorlin.com/tags/%E5%BF%83%E6%83%85/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>什么都不懂的瞎搞</title>
-    <link href="https://www.zorlin.com/2017/06/05/know-nothing/"/>
-    <id>https://www.zorlin.com/2017/06/05/know-nothing/</id>
-    <published>2017-06-05T02:37:08.000Z</published>
-    <updated>2018-05-12T11:25:25.773Z</updated>
-    
-    <content type="html"><![CDATA[<p>在GitHub Page上搞了个主页，使用了一个主题，然后各种乱搞，<br>样子出来了但是图片还加载不出来。</p>
-<p>我荒了我的学习，觉得有点亏。我应该停下来了，好好的做自己<br>该做的，按计划继续进行。</p>
-<p>肚子上的肉又多了，又该注意运动了，明天去跑步出点汗水，减<br>肥减肥。</p>
-<p>学习</p>
-<p>运动</p>
-<p>减肥</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;在GitHub Page上搞了个主页，使用了一个主题，然后各种乱搞，&lt;br&gt;样子出来了但是图片还加载不出来。&lt;/p&gt;
-&lt;p&gt;我荒了我的学习，觉得有点亏。我应该停下来了，好好的做自己&lt;br&gt;该做的，按计划继续进行。&lt;/p&gt;
-&lt;p&gt;肚子上的肉又多了，又该注意运动了，明天去跑步出
     
     </summary>
     
